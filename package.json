@@ -15,7 +15,7 @@
   ],
   "name": "rv-loader",
   "description": "webpack loader for ractive template",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "dependencies": {},
   "scripts": {
     "test": "jest test"
